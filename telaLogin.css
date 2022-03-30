@@ -7,8 +7,7 @@
   border: none;
 }
 body {
-  background-image: url(./img/Design_sem_nome-removebg-preview.png);
-  /* background-size: cover; */
+  background-image: url(./img/fundo2.png);
 }
 textarea:focus, input:focus {
   outline: none;
